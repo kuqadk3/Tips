@@ -80,6 +80,14 @@ sudo !!
   | `Ctrl-R` | Search bash history (start typing) |
   | `Ctrl-G` | Cancel history search              |
 
+## Crypto
+
+(Combination of Cutting Edge crypto tool)
+
+* [Quipquip](https://quipqiup.com/) : the tools that will help you solve almost all subsituition cipher
+* [Decode.fr](https://www.dcode.fr/) : combinations of bunch of old school cipher, both encryption and decryption
+* [CyberChef](https://gchq.github.io/CyberChef/) : try "Magic" mode, it's real MAGIC!
+
 ## Hacking channel/stream/podcast :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
 * Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
