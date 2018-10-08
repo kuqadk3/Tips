@@ -41,7 +41,9 @@ Useful tips by OTA CTF members. PRs welcome!
   * `up`/`down` - Move up or down to a different stack frame.
   * `set follow-fork-mode <child|parent>` - Tell gdb to either trace the parent or 'move' to the child on `fork`.
   * `set follow-exec-mode <same|new>` - Tell gdb to either trace the original target or 'move' to the new process on `exec*`.
-
+### GDB remote debugging with Qemu
+  * qemu-system-x86_64 -s -S -m 512 -hda yourfile.bin
+  * target remote localhost:1234
 ## Shell-fu
 * `file` - Try to determine what type of file you have.
 * `strace` - See which syscalls an executable executes.
